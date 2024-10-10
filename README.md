@@ -32,9 +32,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 ![Demo GIF]("./demo.gif")
-Here's a walkthrough of implemented required features:
-
-![Demo of the feature]("https://github.com/benjaminhpham/web103_unit3_project/virtual-community-space.gif");
 
 ## Notes
 
